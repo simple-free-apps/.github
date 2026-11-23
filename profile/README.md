@@ -2,17 +2,25 @@
 
 Building privacy-first offline Android apps, physics & chess games, and clean Kotlin / Jetpack Compose / Godot 4 mobile game source kits.
 
-🌐 **[Studio Portal & Catalog](https://simple-free-apps.github.io/)** · 🎮 **[Google Play Portfolio](https://simple-free-apps.github.io/android-games/)**
+🌐 **[Studio Portal & Catalog](https://simple-free-apps.github.io/)** · 📱 **[Google Play Store (19 Live Apps & Games)](https://play.google.com/store/apps/dev?id=7078150569870376778)** · 🎮 **[Android Games Showcase](https://simple-free-apps.github.io/android-games/)**
 
 ---
 
-## Published Apps & Games on Google Play
+## Published Apps & Games on Google Play (19 Live)
 
 | App / Game | Highlights | Google Play |
 |---|---|---|
 | **Inkear: Offline Speech to Text** | On-device Whisper transcription (~99 languages, RTL Arabic, WhatsApp/Telegram import, TXT/MD/SRT/VTT/PDF/JSON export, one-time purchase) | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.app.inkear) |
+| **Habit Loom: Daily Streaks** | Private, ad-free daily habit tracker & streak builder | [Google Play](https://play.google.com/store/apps/details?id=com.fennoru.habitloom) |
+| **LoomiCost: Daily Expense Log** | Minimal offline, ad-free personal expense tracker | [Google Play](https://play.google.com/store/apps/details?id=com.velluno.loomicost) |
+| **QR Nexus Pro: Scanner & Creator** | Fast offline QR & barcode scanner and generator with custom logos & colors | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.sup.qrcode) |
+| **Ramadan 2027 Imsakiyah & Adhan** | Ramadan timetable, prayer times & adhan, Qibla, Quran recitation, azkar & ruqyah | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.apps.sup.emsakyah) |
 | **Chess With Sara: Learn & Play** | Voice & text chess coach Sara (EN/AR), 50,000 puzzles, Puzzle Storm, online arenas, Chess960 & Stockfish 18 *(free to play + IAP & ads; source not for sale)* | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.chess.chesswithai) |
 | **Psycho Mechanics: Physics** | Build chain-reaction contraptions with ramps, gears, magnets, ropes & sandbox *(free to play + IAP & ads; source not for sale)* | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.crazymachines) |
+| **Games Box: All-in-One Games** | 10 offline games in one app (Police Pursuit 3D, Tarneeb, Basra, Dominoes, Solitaire & more) | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.gamesbox) |
+| **Tarneeb With AI** | Classic Middle Eastern Tarneeb card game offline with smart AI | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.tarneeb) |
+| **Basra With AI** | Offline classic Basra card duels with 3D felt tables & luxury decks | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.basra) |
+| **Sudoku Puzzle** | Clean multi-level offline number sudoku challenges | [Google Play](https://play.google.com/store/apps/details?id=com.games.sup.sudoku) |
 | **Liquid Sort Puzzle** | Multi-chapter water sorting with locked flasks & certified hints *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.liquidsortpuzzle) |
 | **Orvaleth: Clockwork Spires** | 60 3D clockwork contraption spires built with Godot 4 & Blender *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.valkora.serenth.orvaleth) |
 | **Tessavora: Mosaic Puzzle** | 120 ceramic polyomino boards, daily puzzle & 7×7 board designer *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.dralvoni.senvarek.tessavora) |
