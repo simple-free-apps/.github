@@ -2,7 +2,7 @@
 
 Building privacy-first offline Android apps, physics & chess games, and clean Kotlin / Jetpack Compose / Godot 4 mobile game source kits.
 
-🌐 **[Studio Portal & Catalog](https://simple-free-apps.github.io/)** · 🎮 **[Play Interactive Puzzle Demos in Browser](https://simple-free-apps.github.io/demo/)**
+🌐 **[Studio Portal & Catalog](https://simple-free-apps.github.io/)** · 🎮 **[Google Play Portfolio](https://simple-free-apps.github.io/android-games/)**
 
 ---
 
@@ -15,6 +15,12 @@ Building privacy-first offline Android apps, physics & chess games, and clean Ko
 | **Psycho Mechanics: Physics** | Build chain-reaction contraptions with ramps, gears, magnets, ropes & sandbox *(free to play + IAP & ads; source not for sale)* | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.crazymachines) |
 | **Liquid Sort Puzzle** | Multi-chapter water sorting with locked flasks & certified hints *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.gr8.games.liquidsortpuzzle) |
 | **Orvaleth: Clockwork Spires** | 60 3D clockwork contraption spires built with Godot 4 & Blender *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.valkora.serenth.orvaleth) |
+| **Tessavora: Mosaic Puzzle** | 120 ceramic polyomino boards, daily puzzle & 7×7 board designer *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.dralvoni.senvarek.tessavora) |
+| **PillarGlide: Tactical Slide** | 60 tactical sliding puzzles, Alpha-Beta AI duels & level studio *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.brimavel.noruvik.pillarglide) |
+| **LanternLoom: Light Path** | 48 nocturnal conduit-rotation puzzles with BFS hint solver *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.tavrolin.quemsy.lanternloom) |
+| **Kivorivane: Kite Escape** | 1,200 deterministic paper-kite escape stages across 6 chapters *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.mirveki.savureth.kivorivane) |
+| **Trelovix: Prism Grid** | 500 campaign levels, Classic Endless, 120s Blitz & Daily Prism *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.vornalix.zelvarok.trelovix) |
+| **Zelquavex: Circuit Slide** | 1,200 relay-charging circuit puzzles & daily circuits *(live Play demo + commercial source kit)* | [Google Play](https://play.google.com/store/apps/details?id=com.vorqali.nexumir.zelquavex) |
 
 ---
 
@@ -27,15 +33,15 @@ Building privacy-first offline Android apps, physics & chess games, and clean Ko
 
 ---
 
-## Commercial Source Kits (Codester $14)
+## Commercial Source Kits (Codester $14 & SellAnyCode)
 
-| Kit | Stack & Content | Codester |
-|---|---|---|
-| **Soravel: Puzzle Pack 5-in-1** | Kotlin / Compose · 5 full games (`1,928+` levels) | [$14](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man) |
-| **Orvaleth: Clockwork Spires** | Godot 4 / Blender · 60 3D levels + editor | [$14](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man) |
-| **Veyravel: Rift Courier** | Godot 4 / 3D · 36 floating action roguelite sectors | [$14](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man) |
-| **Kivorivane: Kite Escape** | Kotlin / Compose · 1,200 deterministic levels | [$14](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man) |
-| **Liquid Sort Puzzle** | Kotlin / Compose · Chapters, locked flasks, EN/AR | [$14](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) |
-| **All 10 Source Kits** | Zelquavex, Trelovix, Tessavora, PillarGlide, LanternLoom & more | [Codester](https://simple-free-apps.github.io/#catalog) |
+| Kit | Stack & Content | Codester | SellAnyCode |
+|---|---|---|---|
+| **Soravel: Puzzle Pack 5-in-1** | Kotlin / Compose · 5 full games (`1,928+` levels) | [$14](https://www.codester.com/items/76186/puzzle-pack-5-in-1-kotlin-android-game-bundle?ref=Gr8Man) | [$29](https://www.sellanycode.com/item.php?id=28630) |
+| **Liquid Sort Puzzle** | Kotlin / Compose · Chapters, locked flasks, EN/AR | [$14](https://www.codester.com/items/64630/liquid-sort-puzzle-kotlin-android-game-template?ref=Gr8Man) | [$20](https://www.sellanycode.com/item.php?id=28631) |
+| **Orvaleth: Clockwork Spires** | Godot 4 / Blender · 60 3D levels + editor | [$14](https://www.codester.com/items/76144/orvaleth-godot-3d-clockwork-puzzle-game?ref=Gr8Man) | [$20](https://www.sellanycode.com/item.php?id=28633) |
+| **Veyravel: Rift Courier** | Godot 4 / 3D · 36 floating action roguelite sectors | [$14](https://www.codester.com/items/76079/veyravel-3d-android-action-game-godot?ref=Gr8Man) | [$20](https://www.sellanycode.com/item.php?id=28634) |
+| **Kivorivane: Kite Escape** | Kotlin / Compose · 1,200 deterministic levels | [$14](https://www.codester.com/items/76093/kivorivane-1000-levels-kite-escape-kotlin?ref=Gr8Man) | — |
+| **All 10 Source Kits** | Zelquavex, Trelovix, Tessavora, PillarGlide, LanternLoom & more | [Studio Catalog](https://simple-free-apps.github.io/#catalog) | — |
 
 *Disclosure: Codester links above include the publisher's `?ref=Gr8Man` referral parameter.*
